@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo classes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Pseudo classes</h1>
+
+    <h2>First child</h2>
+    <div>
+        <p class="padrao">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus itaque voluptas doloremque veniam amet dolore modi ipsum consectetur, ex voluptate quia nam, laborum dolores consequuntur quibusdam provident perspiciatis eum beatae?</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem, illo deleniti. Itaque dolorem suscipit ratione aspernatur commodi dolorum ipsam deserunt magnam eum. Animi minima sed quia quaerat maxime! Cupiditate, enim!</p>
+    </div>
+
+
+    <h2>Last child</h2>
+    <div>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus itaque voluptas doloremque veniam amet dolore modi ipsum consectetur, ex voluptate quia nam, laborum dolores consequuntur quibusdam provident perspiciatis eum beatae?</p>
+        <p class="padrao">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Exercitationem, illo deleniti. Itaque dolorem suscipit ratione aspernatur commodi dolorum ipsam deserunt magnam eum. Animi minima sed quia quaerat maxime! Cupiditate, enim!</p>
+    </div>
+
+    <h2>NTH child</h2>
+        <ul>
+            <li>1</li>
+            <li>2</li>
+            <li>3</li>
+            <li>4</li>
+            <li>5</li>
+            <li>6</li>
+            <li>7</li>
+            <li>8</li>
+        </ul>
+
+</body>
+</html>
