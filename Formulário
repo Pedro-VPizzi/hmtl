@@ -7,21 +7,9 @@
     <title>Formulario</title>
 </head>
 <body>
-    <!--<h1>Formulario</h1>
+    <h1>Formulario</h1>
 
-    <h3>Formulario com GET</h3>
-    <form method="get" action="index.html">
-        <input type="text" name="q" value="twitter">
-        <input type="submit" value="enviar">
-    </form>
-
-    <h3>Formulario com POST</h3>
-    <form method="get" action="index.html">
-        <input type="text" name="q" value="twitter">
-        <input type="submit" value="enviar">
-    </form>-->
-
-    <h3>Formulario de login no Facebook</h3>
+    <h3>Login no Facebook</h3>
     <form method="get" action="index.html" enctype="multipart/form-data">
         <input type="text" name="nome" id="nome" placeholder="nome" required>
         <input type="text" name="sobrenome" id="sobrenome" placeholder="sobrenome" required>
