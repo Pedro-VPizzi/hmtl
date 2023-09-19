@@ -96,7 +96,7 @@
         
         <br><br>
         
-        <label required>Genero</label><br>
+        <label required>Gênero</label><br>
         
         <label for="masculino">Masculino</label>
         <input id="masculino" type="radio" name="genero">
